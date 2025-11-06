@@ -13,4 +13,9 @@ fn main() {
     //     use lib::closure::run as c_run;
     //     c_run::run();
     // }
+
+    // {
+    //     use::lib::ownership::run as o_run;
+    //     o_run::run();
+    // }
 }
