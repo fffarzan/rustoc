@@ -11,5 +11,5 @@ pub mod control_flow;
 // pub mod module;
 // pub mod option_type;
 // pub mod ownership;
-// pub mod repetition;
+pub mod repetition;
 // pub mod result_type;
