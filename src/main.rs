@@ -49,8 +49,13 @@ fn main() {
     //     ot_run::run();
     // }
 
+    // {
+    //     use lib::derive::run as d_run;
+    //     d_run::run();
+    // }
+
     {
-        use lib::derive::run as d_run;
-        d_run::run();
+        use lib::hashmap::run as h_run;
+        h_run::run();
     }
 }
