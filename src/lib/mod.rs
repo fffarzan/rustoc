@@ -3,7 +3,7 @@ pub mod closure;
 pub mod control_flow;
 // pub mod collection;
 // pub mod structure;
-// pub mod derive;
+pub mod derive;
 pub mod ext_crate;
 // pub mod hashmap;
 // pub mod input;
