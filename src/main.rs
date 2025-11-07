@@ -15,7 +15,12 @@ fn main() {
     // }
 
     // {
-    //     use::lib::ownership::run as o_run;
+    //     use lib::ownership::run as o_run;
     //     o_run::run();
+    // }
+
+    // {
+    //     use lib::iterator::run as it_run;
+    //     it_run::run();
     // }
 }
