@@ -38,4 +38,14 @@ fn main() {
     //     use lib::int_module::run as im_run;
     //     im_run::run();
     // }
+
+    // {
+    //     use lib::collection::run as col_run;
+    //     
+    // }
+
+    {
+        use lib::option_type::run as ot_run;
+        ot_run::run();
+    }
 }

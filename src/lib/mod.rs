@@ -9,7 +9,7 @@ pub mod ext_crate;
 // pub mod input;
 pub mod iterator;
 pub mod int_module;
-// pub mod option_type;
+pub mod option_type;
 pub mod ownership;
 pub mod repetition;
 // pub mod result_type;
