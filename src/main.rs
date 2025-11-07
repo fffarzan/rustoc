@@ -33,4 +33,9 @@ fn main() {
     //     use lib::ext_crate::run as ec_run;
     //     ec_run::run();
     // }
+
+    // {
+    //     use lib::int_module::run as im_run;
+    //     im_run::run();
+    // }
 }

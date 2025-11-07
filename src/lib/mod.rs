@@ -8,7 +8,7 @@ pub mod ext_crate;
 // pub mod hashmap;
 // pub mod input;
 pub mod iterator;
-// pub mod module;
+pub mod int_module;
 // pub mod option_type;
 pub mod ownership;
 pub mod repetition;
