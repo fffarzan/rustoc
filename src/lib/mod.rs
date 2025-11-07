@@ -13,4 +13,4 @@ pub mod iterator;
 pub mod ownership;
 pub mod repetition;
 // pub mod result_type;
-// pub mod some;
+pub mod some;

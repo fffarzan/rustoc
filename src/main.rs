@@ -23,4 +23,9 @@ fn main() {
     //     use lib::iterator::run as it_run;
     //     it_run::run();
     // }
+
+    // {
+    //     use lib::some::run as s_run;
+    //     s_run::run();
+    // }
 }
