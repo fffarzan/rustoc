@@ -6,7 +6,7 @@ pub mod control_flow;
 pub mod derive;
 pub mod ext_crate;
 pub mod hashmap;
-// pub mod input;
+pub mod input;
 pub mod iterator;
 pub mod int_module;
 pub mod option_type;

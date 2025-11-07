@@ -54,8 +54,13 @@ fn main() {
     //     d_run::run();
     // }
 
-    {
-        use lib::hashmap::run as h_run;
-        h_run::run();
-    }
+    // {
+    //     use lib::hashmap::run as h_run;
+    //     h_run::run();
+    // }
+
+    // {
+    //     use lib::input::run as i_run;
+    //     i_run::run();
+    // }
 }
