@@ -4,7 +4,7 @@ pub mod control_flow;
 // pub mod collection;
 // pub mod structure;
 // pub mod derive;
-// pub mod crate;
+pub mod ext_crate;
 // pub mod hashmap;
 // pub mod input;
 pub mod iterator;

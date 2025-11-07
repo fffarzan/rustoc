@@ -8,3 +8,4 @@ name = "lib"
 path = "src/lib/mod.rs"
 
 [dependencies]
+chrono = "0.4"

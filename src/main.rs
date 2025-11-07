@@ -28,4 +28,9 @@ fn main() {
     //     use lib::some::run as s_run;
     //     s_run::run();
     // }
+
+    // {
+    //     use lib::ext_crate::run as ec_run;
+    //     ec_run::run();
+    // }
 }
