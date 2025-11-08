@@ -1,5 +1,5 @@
 pub mod closure;
-// pub mod combinator;
+pub mod combinator;
 pub mod control_flow;
 // pub mod collection;
 // pub mod structure;
