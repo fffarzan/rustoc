@@ -41,7 +41,7 @@ fn main() {
 
     // {
     //     use lib::collection::run as col_run;
-    //     
+    //     col_run::run();
     // }
 
     // {

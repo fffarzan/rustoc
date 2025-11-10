@@ -1,7 +1,7 @@
 pub mod closure;
 pub mod combinator;
 pub mod control_flow;
-// pub mod collection;
+pub mod collection;
 // pub mod structure;
 pub mod derive;
 pub mod ext_crate;
