@@ -68,4 +68,9 @@ fn main() {
     //     use lib::combinator::run as co_run;
     //     co_run::run();
     // }
+
+    {
+        use lib::structure::run as s_run;
+        s_run::run();
+    }
 }
