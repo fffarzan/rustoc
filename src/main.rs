@@ -69,8 +69,13 @@ fn main() {
     //     co_run::run();
     // }
 
-    {
-        use lib::structure::run as s_run;
-        s_run::run();
-    }
+    // {
+    //     use lib::structure::run as s_run;
+    //     s_run::run();
+    // }
+
+    // {
+    //     use lib::result_type::run as rt_run;
+    //     rt_run::run();
+    // }
 }
